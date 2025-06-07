@@ -83,7 +83,7 @@ An exploratory data analysis project focused on Zomato's restaurant dataset. The
 
 ## 👤 Author
 
-Created with 🧠 and ❤️ by **Vanshaj P Mohan**
+Created with ❤️ by **Vanshaj P Mohan**
 🔍 Exploring Data, One Plot at a Time.
 
 ---
